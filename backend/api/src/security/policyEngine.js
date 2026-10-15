@@ -170,6 +170,8 @@ const POLICIES = {
   'zkid:revoke-disclosure':    {},
   'zkid:view-identity':        {},
   'zkid:view-stats':           {},
+
+  'route:write':               {},
 };
 
 export class PolicyEngine {
